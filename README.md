@@ -1,6 +1,5 @@
 ﻿# software_engineering_course
 Part 1: Introduction to Software Engineering
-
 Explain what software engineering is and discuss its importance in the technology industry.
 Identify and describe at least three key milestones in the evolution of software engineering.
 List and briefly explain the phases of the Software Development Life Cycle.
